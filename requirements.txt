@@ -1,2 +1,2 @@
-patool==2.2.0
+patool==2.3.0
 argparse==1.4.0
